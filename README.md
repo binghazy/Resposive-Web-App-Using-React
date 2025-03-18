@@ -4,7 +4,7 @@ This is a modern, fully responsive chat application built with React, designed f
 Key Features:
 
 
-![Chat App Screenshot](assets/chat-app-preview.png)
+![Chat App Screenshot](1x_Group.png)
 
 ✅ Real-time Messaging – Instant communication with a sleek and user-friendly interface.  
 ✅ Responsive Design – Optimized for all screen sizes using CSS and React frameworks.  
